@@ -1,0 +1,50 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": [
+        "Hi",
+        "Hello",
+        "Hey"
+      ]
+    },
+    {
+      "intent": "recommend_book",
+      "examples": [
+        "Recommend a book",
+        "Suggest me a book",
+        "I want a book"
+      ]
+    },
+    {
+      "intent": "genre_search",
+      "examples": [
+        "Fantasy books",
+        "Mystery books",
+        "Romance books"
+      ]
+    },
+    {
+      "intent": "author_search",
+      "examples": [
+        "Books by J.K. Rowling",
+        "Books by Dan Brown"
+      ]
+    },
+    {
+      "intent": "mood_search",
+      "examples": [
+        "I am happy",
+        "I am sad",
+        "I feel motivated"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        "Bye",
+        "Goodbye"
+      ]
+    }
+  ]
+}
