@@ -1,0 +1,24 @@
+{
+  "entities": {
+    "genre": [
+      "Fantasy",
+      "Mystery",
+      "Romance",
+      "Thriller",
+      "Science Fiction",
+      "Self Help"
+    ],
+    "author": [
+      "J.K. Rowling",
+      "Dan Brown",
+      "George Orwell",
+      "Agatha Christie"
+    ],
+    "mood": [
+      "Happy",
+      "Sad",
+      "Motivated",
+      "Relaxed"
+    ]
+  }
+}
